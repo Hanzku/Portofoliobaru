@@ -54,8 +54,8 @@ export const Contact: React.FC = () => {
           <div className="flex flex-col gap-6">
             {[
               { icon: <Mail size={20} className="text-indigo-400" />, label: 'Email', value: 'zandygege@gmail.com', href: 'mailto:zandygege@gmail.com' },
-              { icon: <Instagram size={20} className="text-cyan-400" />, label: 'Instagram', value: '@alfachridzy_', href: 'https://instagram.com/alfachridzy_' },
-              { icon: <Github size={20} className="text-indigo-400" />, label: 'GitHub', value: 'Alfachridzy', href: '#' },
+              { icon: <Instagram size={20} className="text-cyan-400" />, label: 'Instagram', value: '@for.myself__k', href: 'https://instagram.com/alfachridzy_' },
+              { icon: <Github size={20} className="text-indigo-400" />, label: 'GitHub', value: 'Alfachridzy', href: 'Hanzku' },
             ].map((item, i) => (
               <a 
                 key={i} 
