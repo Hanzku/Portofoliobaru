@@ -43,8 +43,8 @@ export const Hero: React.FC = () => {
           </motion.a>
           <div className="flex items-center gap-3 ml-4">
             {[
-              { icon: <Github size={20} />, href: "#" },
-              { icon: <Instagram size={20} />, href: "https://instagram.com/alfachridzy_" },
+              { icon: <Github size={20} />, href: "Hanzku" },
+              { icon: <Instagram size={20} />, href: "https://instagram.com/for.myself__k" },
               { icon: <Mail size={20} />, href: "mailto:zandygege@gmail.com" }
             ].map((social, i) => (
               <motion.a
